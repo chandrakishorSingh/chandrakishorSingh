@@ -16,3 +16,7 @@ Places you can find me:
 - [Linkedin](https://linkedin.com/in/chandrakishor-singh)
 - [Mastodon](https://mastodon.social/@chandrakishorSingh)
 - [Email](mailto:support.chandrakishor@gmail.com)
+
+Programming practice profiles:
+- [LeetCode](https://leetcode.com/u/chandrakishorSingh/)
+- [HackerRank](https://www.hackerrank.com/profile/chandrakishor00)
