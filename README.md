@@ -26,3 +26,5 @@ Places you can find me:
 Programming practice profiles:
 - [LeetCode](https://leetcode.com/u/chandrakishorSingh/)
 - [HackerRank](https://www.hackerrank.com/profile/chandrakishor00)
+
+![Profile Views](https://komarev.com/ghpvc/?username=chandrakishorSingh)
