@@ -4,8 +4,10 @@ A Software Engineer with interests in Application Development, Open Source and M
 
 Technical Skills:
 - Programming Languages: JavaScript/TypeScript, Python, Java, C++
-- Frontend: Angular, HTML, CSS
+- Frontend: Angular, React, HTML, CSS
 - Backend: Node.js, Spring
+- Database: PostgreSQL, MySQL, MongoDB
+- Cloud: AWS(S3, Lambda, API Gateway, EC2, DynamoDB, Cognito, CloudWatch)
 - Mobile: Android, Jetpack, Kotlin
 - Developer Tools: Git, Bash, Docker
 - Operating Systems: Linux(Fedora, Debian)
