@@ -14,7 +14,7 @@ Technical Skills:
 
 Some of my projects:
 - [Market Pulse](https://github.com/chandrakishorSingh/market-pulse-v2): A virtual trading Android app which recommends buy/sell signal for Nifty 50 stocks using technical indicator analysis.
-- [LeetCode Classic](https://github.com/chandrakishorSingh/leetcode-classic): A browser extension to view LeetCode problems in old(classic) UI.
+- [LeetCode Classic](https://github.com/chandrakishorSingh/leetcode-classic): A browser extension to view LeetCode problems in old (classic) UI (100+ downloads).
 - [HackerRank Solutions Extractor](https://github.com/chandrakishorSingh/hackerrank-solutions-extractor): A cli tool to download all of your HackerRank coding submissions.
 - [Pokemon Terminal RPM](https://github.com/chandrakishorSingh/pokemon-terminal-rpm): An RPM package for the popular [Pokemon Terminal](https://github.com/LazoVelko/Pokemon-Terminal) project. 
 
